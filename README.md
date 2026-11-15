@@ -1,6 +1,6 @@
 # Adaptive Vice Grip (SolidWorks)
 
-A vice grip insert designed in **SolidWorks** for Lab Mini Design Project 5 at Toronto Metropolitan University. Instead of two flat jaws, it uses a grid of small rectangular protrusions that slide independently, so the grip conforms to irregular objects that a normal vice can't hold securely.
+A vice grip insert designed in **SolidWorks** for Lab Mini Design Project 5 at ontario tech university. Instead of two flat jaws, it uses a grid of small rectangular protrusions that slide independently, so the grip conforms to irregular objects that a normal vice can't hold securely.
 
 ![Final assembly](images/vice_grip_assembly.png)
 
